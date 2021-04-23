@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+
+select {
+    margin-top: 30px;
+}
+
+canvas {
+    margin: 10px;
+    border: 10px solid #ffffff;
+}
